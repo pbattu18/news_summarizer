@@ -83,10 +83,14 @@ Instead of bouncing between 10+ tabs and articles, you get one snapshot that tel
 
 ##  How to Use
 
-1. Go to the notebook on Kaggle  
-2. Enter a topic string (e.g., "Google", "Artificial Intelligence", "Ukraine")  
-3. The app fetches articles from the last few days  
-4. Summary is generated and displayed automatically  
+1.
+```
+git clone https://github.com/pbattu18/news_summarizer
+```
+2. Upload the notebook on Kaggle  
+3. Enter a topic string (e.g., "Google", "Artificial Intelligence" etc.)  
+4. The app fetches articles from the last few days  
+5. Summary is generated and displayed automatically  
 
 ---
 
